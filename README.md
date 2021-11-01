@@ -31,7 +31,7 @@ Then At last!
 ```
 ./archnex.sh
 ```
-*Or*
+*Or* If the Above Command Doesn't Work
 ``` 
 bash archnex.sh
 ```
