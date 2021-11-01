@@ -21,12 +21,12 @@ Type the Commands One By One
 pacman -Sy git
 ```
 ```
-git clone https://github.com/ChrisTitusTech/ArchTitus
+git clone https://github.com/Super-NeX/ArchNeX
 ```
 ```
-cd ArchTitus
+cd ArchNeX
 ```
 ```
-./archtitus.sh
+./archnex.sh
 ```
 
