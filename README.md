@@ -51,6 +51,10 @@ Type the Username and a 4-Digit *(Number is Preferred)* Password (As Easy as tha
 
 Type ```1``` in the Command line and Hit Enter to Use KDE Plasma as your Desktop Environment. I personally like Plasma because it is a perfect mix of Appearance and Speed.
 
+Reboot
+--
+When Everything is Done Type ```reboot``` in Command line and Boot into ArchNeX
+
 No Wifi
 --
 If you boot Directly on a Computer Via USB or something and are not able to use Wifi the use the following Command
