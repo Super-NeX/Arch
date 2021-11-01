@@ -47,6 +47,9 @@ There will be some Prompts Along the way. The commands work on the belief that y
 
 Type the Username and a 4-Digit *(Number is Preferred)* Password (As Easy as that LoL)
 
+*Desktop Manager*
+
+Type ```1``` in the Command line and Hit Enter to Use KDE Plasma as your Desktop Environment. I personally like Plasma because it is a perfect mix of Appearance and Speed.
 
 No Wifi
 --
