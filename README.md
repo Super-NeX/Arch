@@ -27,10 +27,14 @@ git clone https://github.com/Super-NeX/ArchNeX
 ```
 cd ArchNeX
 ```
+Then At last!
 ```
 ./archnex.sh
 ```
-
+*Or*
+``` 
+bash archnex.sh
+```
 Boom and Done !! The Scripts will Do everything for Ya! Sit back and Get a Coffee as this will take time depending on your Internet Connection.
 
 
